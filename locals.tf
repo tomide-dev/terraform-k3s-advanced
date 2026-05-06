@@ -13,5 +13,6 @@ locals {
     Environment = terraform.workspace
     ManagedBy   = "Terraform"
     Week        = "Week16Lab"
+    UpdatedBy = "GitHubActions"
   }
 }
